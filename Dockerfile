@@ -1,4 +1,4 @@
-FROM centos:centos6
+FROM centos:centos8
 MAINTAINER hays.clark@gmail.com
 
 #########################################
